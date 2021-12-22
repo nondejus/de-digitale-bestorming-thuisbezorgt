@@ -1,1 +1,13 @@
-# de-digitale-bestorming-thuisbezorgt
+---------------------------------------
+| de-digitale-bestorming-thuisbezorgt |
+---------------------------------------
+
+
+# cyberwarfare
+https://en.wikipedia.org/wiki/Cyberwarfare
+
+# burgerootlog
+https://nl.wikipedia.org/wiki/Burgeroorlog
+
+# staat der nederlanden
+https://nl.wikipedia.org/wiki/Staat_der_Nederlanden
